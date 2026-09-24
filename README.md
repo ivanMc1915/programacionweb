@@ -7,3 +7,8 @@
 ![Cap1](/cap3.png)
 ![Cap1](/ap4.png)
 # Muestra de la interfaz
+![shingeki](/shingeki.png)
+# Ejemplo de API:
+Consultada en <https://api.attackontitanapi.com/titans>, y visulizada desde el inspector del navegador
+![Api](/apiweb.png)
+![API](/apinsp.png)
