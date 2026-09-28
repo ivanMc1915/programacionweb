@@ -169,8 +169,8 @@ for i, t in enumerate(titanes):
    
 ```
 # Muestra de la interfaz
-![shingeki](/shingeki.png)
+![shingeki](web/shingeki.png)
 # Ejemplo de API:
 Consultada en <https://api.attackontitanapi.com/titans>, y visulizada desde el inspector del navegador
-![Api](/apiweb.png)
-![API](/apinsp.png)
+![Api](web/apiweb.png)
+![API](web/apinsp.png)
